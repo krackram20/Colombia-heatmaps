@@ -1,2 +1,2 @@
 # Colombia-heatmaps
-Shiny app to create heatmap plots of Colombia
+Shiny app to create heatmap plots of Colombia by department
